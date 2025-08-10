@@ -10,6 +10,7 @@ Friendly encouragements to keep the game engaging
 Works for any number in the range 1–100
 Powered by binary number representation for 100% accurate guesses
 Smooth game flow with a start screen, card display, and result popup
+
 🧠 How It Works
 The game uses binary representation to divide numbers into cards based on bit positions. Each “YES” answer adds the corresponding bit’s value to the guess, narrowing it down until the exact number is found.
 
