@@ -27,3 +27,5 @@ Run the program.
 Think of a number between 1 and 100.
 For each card shown, click YES if your number is on it, otherwise NO.
 Watch as the game reveals your number like magic!
+
+![App Screenshot](Guessing-Cards/Screenshot 2025-08-10 215217.png)
