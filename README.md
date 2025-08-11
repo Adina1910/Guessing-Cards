@@ -28,6 +28,7 @@ Think of a number between 1 and 100.
 For each card shown, click YES if your number is on it, otherwise NO.
 Watch as the game reveals your number like magic!
 
+## Preview
 ![Screenshot1](assets/ss1.png)
 ![Screenshot1](assets/ss2.png)
 ![Screenshot1](assets/ss3.png)
