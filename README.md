@@ -28,4 +28,12 @@ Think of a number between 1 and 100.
 For each card shown, click YES if your number is on it, otherwise NO.
 Watch as the game reveals your number like magic!
 
-![App Screenshot](Guessing-Cards/Screenshot 2025-08-10 215217.png)
+![Screenshot1](assets/ss1.png)
+![Screenshot1](assets/ss2.png)
+![Screenshot1](assets/ss3.png)
+![Screenshot1](assets/ss4.png)
+![Screenshot1](assets/ss5.png)
+![Screenshot1](assets/ss6.png)
+![Screenshot1](assets/ss7.png)
+![Screenshot1](assets/ss8.png)
+![Screenshot1](assets/ss9.png)
